@@ -3,7 +3,7 @@
 This project focuses on analyzing sales data from a global retail store to uncover actionable insights across different markets, product categories, customer segments, and shipping efficiency. The goal is to assist management in making data-driven decisions for improving profitability and customer service.
 
 ## 📊 Dataset Used
-[![View File](https://img.shields.io/badge/Download-Dataset-blue)](https://github.com/mmousaa/Projects/blob/main/assets/Sales%20Analysis%20Dashboard.xlsx)
+[![View Dataset](https://img.shields.io/badge/View-Dataset-blue)](https://github.com/mmousaa/Projects/blob/main/assets/Sales%20Analysis%20Dashboard.xlsx)
 
 ## 📈 Key Business Questions (KPIs)
 Which regions and countries generate the highest sales and profits?
