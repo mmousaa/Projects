@@ -1,4 +1,5 @@
 # 🧩 Project 1: Global Superstore Sales Analysis (Excel Dashboard)
+## 📊 Dashboard Snapshot
 ![Sales Dashboard](https://raw.githubusercontent.com/mmousaa/Projects/main/assets/Dashboard_Sales%20Analysis.png)
 
 ## 📌 Project Objective
@@ -37,9 +38,7 @@ Which regions and countries generate the highest sales and profits?
 
 - Implemented KPI cards for quick snapshot metrics
 
-## 📊 Dashboard Snapshot
-
-💡 Key Insights
+## 💡 Key Insights
 - The APAC region had the highest total sales, but US led in overall profitability.
 
 - Office Supplies and Technology contributed major revenue, while Furniture had low profit margins.
@@ -62,6 +61,7 @@ To enhance profit margins and optimize logistics, Global Superstore should reass
 
   
 # 🧩 Project 2: Data Professional Global Survey Dashboard (Power BI)
+## 📊 Dashboard Snapshot
 ![Survey Dashboard](https://raw.githubusercontent.com/mmousaa/Projects/main/assets/Dashboard_data%20survey.png)
 
 📌 Project Objective
@@ -99,8 +99,6 @@ This project explores industry-wide trends among data professionals using a comp
 - Designed an intuitive layout with KPI cards and drill-down features
 
 - Published dashboard with slicer functionality for live user interaction
-
-## 📊 Dashboard Snapshot
 
 💡 Key Insights
 - USA, Switzerland, and Germany rank highest for average data professional salaries.
