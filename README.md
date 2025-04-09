@@ -118,3 +118,32 @@ This project explores industry-wide trends among data professionals using a comp
 ## ✅ Final Conclusion
 The dashboard reveals that salary growth in data careers is driven heavily by experience, education, and geographic location. Professionals should focus on learning in-demand tools and consider remote opportunities for global exposure. Employers should foster flexible work environments and focus on competitive pay to attract top talent.
 
+---
+***
+
+# 📊 SQL Project: World Events Analysis
+
+**Here are some of SQL queries demonstrating  analysis skills**
+
+[![SQL Expert](https://img.shields.io/badge/SQL-Expert-blue)](https://github.com/mmousaa/SQL/blob/main/world_events_queries.sql)
+
+## 🗂 Project Overview
+This repository contains SQL queries analyzing historical world events data, showcasing:
+- Complex database querying skills
+- Data transformation capabilities
+- Analytical problem-solving approaches
+
+## 🛠 Technical Highlights
+- Multi-table JOIN operations
+- Date period analysis (BETWEEN, YEAR)
+- Advanced filtering (LIKE, IS NULL)
+- Data aggregation (COUNT, GROUP BY)
+- CASE statement categorization
+
+## 📂 Repository Contents
+File	Description
+world_events_queries.sql	Complete collection of SQL queries
+README.md	This documentation file
+📬 Contact
+Email: saadm1811@gmail.com
+
