@@ -36,6 +36,8 @@ Which regions and countries generate the highest sales and profits?
 - Implemented KPI cards for quick snapshot metrics
 
 ## 📊 Dashboard Snapshot
+[![View Dashboard](https://img.shields.io/badge/View-Dashboard-green)](https://github.com/mmousaa/Projects/blob/main/assets/Dashboard_Sales%20Analysis.png)
+
 
 💡 Key Insights
 - The APAC region had the highest total sales, but US led in overall profitability.
