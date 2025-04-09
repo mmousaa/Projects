@@ -39,21 +39,18 @@ Which regions and countries generate the highest sales and profits?
 - Implemented KPI cards for quick snapshot metrics
 
 ## 💡 Key Insights
-- The APAC region had the highest total sales, but US led in overall profitability.
+- Dog Care Dominates – This category significantly outperformed others in sales, indicating strong market demand.
 
-- Office Supplies and Technology contributed major revenue, while Furniture had low profit margins.
+- High-Income Buyers Drive Revenue – This segment generated the highest sales, suggesting premium product opportunities.
 
-- Corporate and Consumer segments drove the majority of sales.
+- PC is the Primary Sales Channel – Desktop purchases led transactions, highlighting the need for a PC-optimized sales experience.
 
-- Some sub-categories (e.g., Tables, Bookcases) showed negative profits, requiring pricing or supply chain review.
+- Mid-Year & Year-End Peaks – June and December showed the highest sales, ideal for targeted promotions.
 
-- Standard Class was the most used shipping method, but Second Class showed faster delivery performance.
-
-- Strong seasonal spikes were observed in Q4 each year.
+- Undisclosed Ownership = Higher Spend – Transactions with unspecified ownership had slightly higher average sales, warranting further investigation.
 
 ## ✅ Final Conclusion
-To enhance profit margins and optimize logistics, Global Superstore should reassess underperforming categories, invest more in high-yield segments like Technology, and align regional promotions with seasonal trends. Prioritizing fast, cost-efficient shipping options can also improve customer satisfaction and loyalty.
-
+To maximize sales performance, focus on high-demand categories like Dog Care and tailor strategies for high-income buyers. Capitalize on peak seasons (June/December) with targeted promotions, and investigate undisclosed ownership transactions to uncover hidden opportunities. Streamlining these priorities will drive revenue growth and operational efficiency.
   
 
 ---
