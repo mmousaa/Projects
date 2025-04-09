@@ -3,18 +3,7 @@
 This project focuses on analyzing sales data from a global retail store to uncover actionable insights across different markets, product categories, customer segments, and shipping efficiency. The goal is to assist management in making data-driven decisions for improving profitability and customer service.
 
 ## 📊 Dataset Used
-File Name: Sales Analysis Dashboard.xlsx
-Contains global sales transactions with fields such as:
-
-- Order Date, Ship Date, Region, Country
-
-- Product Category/Sub-Category
-
-- Sales, Profit, Quantity
-
-- Customer Segment
-
-- Shipping Mode
+- <a herf="https://github.com/mmousaa/Projects/blob/main/assets/Sales%20Analysis%20Dashboard.xlsx">Dataset</a>
 
 ## 📈 Key Business Questions (KPIs)
 Which regions and countries generate the highest sales and profits?
@@ -69,20 +58,7 @@ To enhance profit margins and optimize logistics, Global Superstore should reass
 This project explores industry-wide trends among data professionals using a comprehensive global survey. The dashboard was designed to help recruiters, companies, and individuals gain insights into salaries, skills, demographics, and job satisfaction trends in the data sector.
 
 ## 📊 Dataset Used
-File Name: data professional survey.pbix
-Survey fields include:
-
-- Country, Gender, Age
-
-- Job Title, Industry, Experience
-
-- Salary Range
-
-- Education Level
-
-- Tools & Technologies Used
-
-- Work Mode (Remote, On-site, Hybrid)
+- <a herf="https://github.com/mmousaa/Projects/blob/main/assets/data%20professional%20survey.pbix">Dataset</a>
 
 ## 📈 Key Business Questions (KPIs)
 - What are the top-paying countries for data roles?
