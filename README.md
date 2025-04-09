@@ -120,7 +120,7 @@ The dashboard reveals that salary growth in data careers is driven heavily by ex
 
 ---
 ***
-# 🧩 Project 3: World Events Analysis(SQL Project)
+# 🧩 Project 3: World Events Analysis(SQL Server)
 
 
 **Here are some of SQL queries demonstrating analysis skills**
