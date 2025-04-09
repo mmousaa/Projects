@@ -38,8 +38,6 @@ Which regions and countries generate the highest sales and profits?
 - Implemented KPI cards for quick snapshot metrics
 
 ## 📊 Dashboard Snapshot
-[![View Dashboard](https://img.shields.io/badge/View-Dashboard-green)](https://raw.githubusercontent.com/mmousaa/Projects/main/assets/Dashboard_Sales%20Analysis.png)
-
 
 💡 Key Insights
 - The APAC region had the highest total sales, but US led in overall profitability.
@@ -58,11 +56,13 @@ Which regions and countries generate the highest sales and profits?
 To enhance profit margins and optimize logistics, Global Superstore should reassess underperforming categories, invest more in high-yield segments like Technology, and align regional promotions with seasonal trends. Prioritizing fast, cost-efficient shipping options can also improve customer satisfaction and loyalty.
 
 # 🧩 Project 2: Data Professional Global Survey Dashboard (Power BI)
+![Survey Dashboard](https://raw.githubusercontent.com/mmousaa/Projects/main/assets/Dashboard_data%20survey.png)
+
 📌 Project Objective
 This project explores industry-wide trends among data professionals using a comprehensive global survey. The dashboard was designed to help recruiters, companies, and individuals gain insights into salaries, skills, demographics, and job satisfaction trends in the data sector.
 
-## 📊 Dataset Used
-- <a herf="https://github.com/mmousaa/Projects/blob/main/assets/data%20professional%20survey.pbix">Dataset</a>
+## 📊 Dataset 
+[![View File](https://img.shields.io/badge/View-Survey_File-blueviolet)](https://github.com/mmousaa/Projects/blob/main/assets/data%20professional%20survey.pbix)
 
 ## 📈 Key Business Questions (KPIs)
 - What are the top-paying countries for data roles?
