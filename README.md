@@ -101,17 +101,17 @@ This project explores industry-wide trends among data professionals using a comp
 - Published dashboard with slicer functionality for live user interaction
 
 ## 💡 Key Insights
-- USA, Switzerland, and Germany rank highest for average data professional salaries.
+- Majority of participants are male (74%) with an average age of ~30.
 
-- Most professionals have Bachelor’s or Master’s degrees, with higher degrees correlating to higher pay.
+- Data Scientists earn the highest average salary.
 
-- Python, SQL, and Power BI/Tableau are top tools used across roles.
+- Python is the most popular programming language.
 
-- Remote work is increasingly popular, especially in North America and Europe.
+- Participants report moderate work-life balance (5.74) and low salary satisfaction (4.27).
 
-- Data Analysts and Data Scientists dominate the field, with noticeable growth in ML Engineers.
+- Most respondents are from Canada, UK, India, and the US.
 
-- Professionals with 10+ years of experience earn up to 4x more than those under 2 years.
+
 
 ## ✅ Final Conclusion
 The dashboard reveals that salary growth in data careers is driven heavily by experience, education, and geographic location. Professionals should focus on learning in-demand tools and consider remote opportunities for global exposure. Employers should foster flexible work environments and focus on competitive pay to attract top talent.
