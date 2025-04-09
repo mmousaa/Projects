@@ -1,5 +1,5 @@
 # Hi, I’m Mahmoud Mousa! 👋  
-I'm Data analyst skilled in SQL, Power BI and Excel. This portfolio showcases projects transforming raw data into actionable insights. Explore my clean code and documented workflows.
+I'm Data analyst skilled in SQL, Power BI and Excel. This portfolio showcases projects transforming raw data into actionable insights.
 ---
 
 
