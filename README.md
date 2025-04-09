@@ -120,13 +120,12 @@ The dashboard reveals that salary growth in data careers is driven heavily by ex
 
 ---
 ***
-#🧩 Project 3: World Events Analysis(SQL Project)
+# 🧩 Project 3: World Events Analysis(SQL Project)
 
-# 📊 : 
 
 **Here are some of SQL queries demonstrating analysis skills**
 
-[![Full SQL Project](https://img.shields.io/badge/SQL-Expert-blue)](https://github.com/mmousaa/SQL/blob/main/world_events_queries.sql)
+[![Full SQL Project](https://img.shields.io/badge/Full_SQL_Project-Expert-blue)](https://github.com/mmousaa/SQL/blob/main/world_events_queries.sql)
 
 ## 🗂 Project Overview
 This repository contains SQL queries analyzing historical world events data, showcasing:
