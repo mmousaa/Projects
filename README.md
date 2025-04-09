@@ -66,7 +66,7 @@ To maximize sales performance, focus on high-demand categories like Dog Care and
 ## 📊 Dashboard Snapshot
 ![Survey Dashboard](https://raw.githubusercontent.com/mmousaa/Projects/main/assets/Dashboard_data%20survey.png)
 
-📌 Project Objective
+## 📌 Project Objective
 This project explores industry-wide trends among data professionals using a comprehensive global survey. The dashboard was designed to help recruiters, companies, and individuals gain insights into salaries, skills, demographics, and job satisfaction trends in the data sector.
 
 ## 📊 Access File:
