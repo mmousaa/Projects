@@ -1,4 +1,5 @@
-EliteMart-Sales-Insight-Dashboard (Interactive Dashboard in MS Excel)
+# EliteMart-Sales-Insight-Dashboard (Interactive Dashboard in MS Excel)
+
 📌 Project Objective
 EliteMart aimed to review its annual sales performance for the year 2022 to extract actionable insights and drive strategic decisions for 2023 and 2024. The goal was to identify key trends, customer demographics, and sales channels contributing to business growth.
 
