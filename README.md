@@ -100,7 +100,7 @@ This project explores industry-wide trends among data professionals using a comp
 
 - Published dashboard with slicer functionality for live user interaction
 
-##💡 Key Insights
+## 💡 Key Insights
 - USA, Switzerland, and Germany rank highest for average data professional salaries.
 
 - Most professionals have Bachelor’s or Master’s degrees, with higher degrees correlating to higher pay.
