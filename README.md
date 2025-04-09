@@ -1,4 +1,6 @@
 # 🧩 Project 1: Global Superstore Sales Analysis (Excel Dashboard)
+![Sales Dashboard](https://raw.githubusercontent.com/mmousaa/Projects/main/assets/Dashboard_Sales%20Analysis.png)
+
 ## 📌 Project Objective
 This project focuses on analyzing sales data from a global retail store to uncover actionable insights across different markets, product categories, customer segments, and shipping efficiency. The goal is to assist management in making data-driven decisions for improving profitability and customer service.
 
