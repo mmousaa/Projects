@@ -120,30 +120,28 @@ The dashboard reveals that salary growth in data careers is driven heavily by ex
 
 ---
 ***
+#🧩 Project 3: World Events Analysis(SQL Project)
 
-# 📊 SQL Project: World Events Analysis
+# 📊 : 
 
-**Here are some of SQL queries demonstrating  analysis skills**
+**Here are some of SQL queries demonstrating analysis skills**
 
-[![SQL Expert](https://img.shields.io/badge/SQL-Expert-blue)](https://github.com/mmousaa/SQL/blob/main/world_events_queries.sql)
+[![Full SQL Project](https://img.shields.io/badge/SQL-Expert-blue)](https://github.com/mmousaa/SQL/blob/main/world_events_queries.sql)
 
 ## 🗂 Project Overview
 This repository contains SQL queries analyzing historical world events data, showcasing:
-- Complex database querying skills
+- intermediate database querying skills
 - Data transformation capabilities
 - Analytical problem-solving approaches
 
 ## 🛠 Technical Highlights
 - Multi-table JOIN operations
-- Date period analysis (BETWEEN, YEAR)
+- Date period analysis (BETWEEN, YEAR, and more)
 - Advanced filtering (LIKE, IS NULL)
-- Data aggregation (COUNT, GROUP BY)
+- Data aggregation (COUNT, GROUP BY,...)
 - CASE statement categorization
 
-## 📂 Repository Contents
-File	Description
-world_events_queries.sql	Complete collection of SQL queries
-README.md	This documentation file
-📬 Contact
-Email: saadm1811@gmail.com
+
+## ✅ Final Conclusion
+With my intermediate skills and techniques , I analyze data effectively to make clean and clear insights, while developing advanced skills.
 
