@@ -51,15 +51,16 @@ Which regions and countries generate the highest sales and profits?
 - Standard Class was the most used shipping method, but Second Class showed faster delivery performance.
 
 - Strong seasonal spikes were observed in Q4 each year.
-  
-
----
-
-  
 
 ## ✅ Final Conclusion
 To enhance profit margins and optimize logistics, Global Superstore should reassess underperforming categories, invest more in high-yield segments like Technology, and align regional promotions with seasonal trends. Prioritizing fast, cost-efficient shipping options can also improve customer satisfaction and loyalty.
 
+  
+
+---
+
+
+  
 # 🧩 Project 2: Data Professional Global Survey Dashboard (Power BI)
 ![Survey Dashboard](https://raw.githubusercontent.com/mmousaa/Projects/main/assets/Dashboard_data%20survey.png)
 
