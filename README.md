@@ -1,12 +1,7 @@
 # Hi, I’m Mahmoud Mousaa! 👋  
-**Data Analyst** | Excel | Power BI | SQL | Python 
+**Data Analyst** |  SQL | Power BI |Excel | Python 
 
-## Featured Projects  
-🔍 [Global Superstore Sales Analysis](https://github.com/mmousaa/Projects) - Analyzed sales trends, identified top-performing categories (Dog Care), and high-income customer segments.  
-📊 [Sales Dashboard](https://github.com/mmousaa/Projects) - Interactive Power BI dashboard showcasing regional performance and seasonal trends.  
-📈 [Customer Segmentation Analysis](https://github.com/mmousaa/Projects) - Clustered customers by purchasing behavior using Python.  
-
-
+---
 
 # 🧩 Project 1: Global Superstore Sales Analysis (Excel Dashboard)
 ## 📊 Dashboard Snapshot
